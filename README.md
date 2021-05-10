@@ -8,7 +8,7 @@ Overall it was really fun to design the UI and make it look attractive.
 
 Screen shots - 
 
-![something](https://user-images.githubusercontent.com/30555447/117643366-f1d63680-b1a5-11eb-88db-e9745c6041b2.png)
+https://user-images.githubusercontent.com/30555447/117643366-f1d63680-b1a5-11eb-88db-e9745c6041b2.png
 
 
 https://user-images.githubusercontent.com/30555447/117643366-f1d63680-b1a5-11eb-88db-e9745c6041b2.png
